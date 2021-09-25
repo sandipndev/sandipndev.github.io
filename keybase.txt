@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/sandipndev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sandipan.dev
+  * I am sandipndev (https://keybase.io/sandipndev) on keybase.
+  * I have a public key with fingerprint E79C 7442 90A4 FD03 F4A4  4AEC DE35 61F8 1B89 A469
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f59e76a580d46aa8faa4cdbb577ead7502ab259a7a938b19f27906edb4226f460a",
+      "fingerprint": "e79c744290a4fd03f4a44aecde3561f81b89a469",
+      "host": "keybase.io",
+      "key_id": "de3561f81b89a469",
+      "kid": "0101f59e76a580d46aa8faa4cdbb577ead7502ab259a7a938b19f27906edb4226f460a",
+      "uid": "4afb9b0022236540df5f2156f77ecf19",
+      "username": "sandipndev"
+    },
+    "service": {
+      "hostname": "sandipan.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1632569396,
+  "expire_in": 157680000,
+  "prev": "fd47744cdcb8d69f736778c8feddf3b773103fa10413c514ea5b079777d9363a",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNCAnicrVJ/UFRVFF4KTXZyhEmSIFp8lVO2wvt931ujYcAoY7aaXAyYEO577z54
+orvL/gA3xLRRSIlgFBIiIRgWi2KAtClQBBRliERmwElT0AYGdCManXBMiO09pv5o
+pj+7/9y553zfd75z7ulb+bBOHzDOwPsRBxuVgMHearcOvrGCLsAEm+TBTAVYDlq6
+0A4JOV0ZOYqEmTCcwAmZ4RFgIcPhEs1CyMkQ0qIkCAwACEqAwUkokAwPAeQpTiB4
+mQQ8ziJJoEmSlWkWh5gRkxVrFnLYHYrVpcoiwIuApkkeh7Qs4ZRMQ5qGSJQQxbCE
+zBECx0Oa5VVits2pMVRzAnSiaMWmxtRHxpK9/8D/z77dS3I0lAVewHGSJCmWoXFJ
+ZmSSYFhZlRJlQqvrdiKHFe5EKtoJrZJit0ooDys0Ymo8TxGRNlqtl39hoDVaQxkx
+u8Pmsom2HWom2+WyO00a0+Wxa9B8JGT8LZIhKCrNmqUy8pDDqdismIlQkaJL0VQJ
+liIZlqd41oihXXbFgTIUDcEAlsPVo9VRy5kwWaKBOn9REgVOYnkZUCwAnMjJSJJk
+SgCAItRPgQROE5TIEDSCjIADHgAg8RRLaYNxolyrDTMB1SbM0hpSsqzQ5XYgrPBs
+7zuBugC9bvmyh7QN0+mDgv/Zu/Ulq/z5VGJY58DC6evhZv6o3H0v9Rddpa7u1MZz
+xtbYhI0GXVzgPEj90f5SztFh6eKjZePyScPhnWtdQ4dvvrJg7+sZ8YYZHmm+lHOW
+a7Ywn4QUvT27+OsNj7vy5r61JxoVQ3RK8e2t7266vqZEXDbwHXI/vqWkcJdtr7/5
+Gf6bq4bBtuyQofqGEubDpO39RbfCVkyljY4+WzsWZPT/DnJ99/YtBM+0ZF57Me5C
+T5C5JeJYadPlhPamotiO7Pi+gt2bY9es2/pBF2m59cWesCMNF3xswarMK+fHmm8c
+XzlNJYaY23UVYtWbn7d+O3KyIy3r/aQHpZ0xp2JevuM1P01u2z47815PyrqLix73
+qK8tUi4OvX98mNenbGmaMK6fG9IFN5+ejOFer3ghhZ0vr+0I/shwzBy4d/DL8CcT
+JjtnDlw9MjLWb/jpiWl3yFxUgOWHp7oTDySF/4HXl4/pB4OmfisO9YybHrxW19RQ
+Pnr70ys9vo/T8qrueF+tTF/9Z8s4s63bWV1x5rENU34bMT98tzq35Nxb6c8llPrs
+qGLi/P6umtVBA5nLIxaSQ3GLULP50kQkXWxyeY2N/WWxwR25X4mHBon2+E3o56/N
+3RNlzysnsgPbWpX9NQVxvbuTIyzT1+5G1UW24LUtG7731MUPVy2Cz3zlEwfnJpPz
+89Jno7o69njPxF9O9dfX/gUpMsjw
+=MjOC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sandipndev
+
+==================================================================
