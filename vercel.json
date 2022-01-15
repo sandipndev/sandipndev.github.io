@@ -1,5 +1,5 @@
 {
   "routes": [
-    { "src": "/sob-talk", "dest": "https://docs.google.com/presentation/d/1ECLuZYj0SDMUcgl70LuzNC_uGk42uaxpIXKBm_5OjbA/edit?usp=sharing"}
+    { "src": "/sob-talk", "status": 308, "headers": { "Location": "https://docs.google.com/presentation/d/1ECLuZYj0SDMUcgl70LuzNC_uGk42uaxpIXKBm_5OjbA/edit?usp=sharing" } }
   ]
 }
