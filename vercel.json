@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/sob-talk", "destination": "https://docs.google.com/presentation/d/1ECLuZYj0SDMUcgl70LuzNC_uGk42uaxpIXKBm_5OjbA/edit?usp=sharing" },
+  ]
+}
